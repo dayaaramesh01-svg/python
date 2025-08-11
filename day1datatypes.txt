@@ -1,0 +1,23 @@
+DATATYPES
+   
+  NUMERIC TYPES:
+int: Integers (e.g. -100).
+float: Floating-point numbers (e.g.3.4).
+complex: Complex numbers (e.g.1+2).
+
+SEQUENCE TYPES:
+str: (e.g.'Python').
+list: square brackets (e.g. [1 "a"]).
+tuple:  (e.g., (1, 2, "b")).
+range: (e.g., range(5)).
+
+MAPPING TYPES:
+dict: curly braces (e.g., {"age": 30}).
+
+SETTYPES:
+set:  curly braces (e.g., {1, 2, 3}).
+frozenset: Immutable version of a set.
+
+BOOLEAN TYPES:
+bool: True or False.
+
