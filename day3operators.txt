@@ -1,0 +1,32 @@
+A = 5
+C = 18.14
+full_name = "dayaaramesh"
+total_students = 15
+absentees = 5
+present = 10
+print("Full Name of the Student:", full_name)
+print("Value of A:", A)
+print("Value of C:", C)
+print("Total Number of Students:", total_students)
+print("Number of Absentees:", absentees)
+print("Number of Present Students:", present)
+print("Present:", present, "| Absent:", absentees, "| Total:", total_students)
+if present + absentees == total_students:
+    print("Attendance is accurate.")
+else:
+    print("Attendance mismatch detected.")
+
+
+
+
+
+
+output:
+
+5 values of A
+3.14 values of C: 18.14
+full name of the student: dayaaramesh
+total number of the students in the class: 15
+number of absentess in the class: 5
+no.of present in the class: 10
+no.of present 10 absent 5 total 15
