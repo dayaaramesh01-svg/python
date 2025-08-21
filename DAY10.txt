@@ -1,0 +1,24 @@
+ STOCK MARKET ANALYSIS 
+
+
+Name 
+Date of birth
+Address
+Phoneno
+Another phone no 
+Email id 
+Guardian name 
+Phone no 
+Type of invest
+   Gold 
+    Land 
+Company name
+Sector
+Earning date
+Profit or loss
+Exchange 
+Net income 
+Revenue
+Tax 
+Documents
+Financial statements
